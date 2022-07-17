@@ -1,4 +1,4 @@
 # docsTemplate
 # Pytorch learnings
 
-Click on `Use this template` button on the top right to use this repository as a boiler plate for your next documentation
+## Click on [me](https://github.com/someshnaman/Pytorch-basics) to look into documentation
